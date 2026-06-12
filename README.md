@@ -1,41 +1,80 @@
 <div align="center">
 
-<!-- هدر متحرک سایبرپانک و ترمینالی -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF6600&center=true&vCenter=true&width=600&lines=System.init(%22Mahdi+Fotohi%22);Initialize+Backend+Environment...;Microservices+%26+Async+Architect;Root%40Mahdifotohi%3A%7E%24+neofetch" alt="Typing SVG" />
+<!-- هدر متحرک نئونی و زنده -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FF6600&center=true&vCenter=true&width=600&lines=HI%2C+I'M+MAHDI+FOTOHI;BACKEND+DEVELOPER;&Acirc;&nbsp;" alt="Typing SVG" />
 
+<!-- پین‌های وضعیت با دیزاین کپسولی متقارن -->
 <p align="center">
-  <img src="https://img.shields.io/badge/OS-Linux_Arch_%%231-000000?style=flat-square&logo=archlinux&logoColor=FF6600" />
-  <img src="https://img.shields.io/badge/SECURE_SHELL-ESTABLISHED-000000?style=flat-square&logo=wireshark&logoColor=FF6600" />
-  <img src="https://img.shields.io/badge/BACKEND_CORE-v3.11-000000?style=flat-square&logo=python&logoColor=FF6600" />
+  <img src="https://img.shields.io/badge/%E2%9A%A1%20STATUS-CODING-FF6600?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/%F0%9F%92%BB%20CORE-BACKEND-000000?style=for-the-badge&logoColor=FF6600" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%A1%20PORT-8080-FF6600?style=for-the-badge&logoColor=black" />
 </p>
 
----
+<!-- خط تفکیک کننده نئونی -->
+<img src="https://raw.githubusercontent.com/krzysztof-marzec/krzysztof-marzec/master/bgr-pixel.gif" width="100%" height="3px" />
+<br>
 
-<!-- گیف هکری مرکزی -->
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400px">
+<!-- گیف مرکزی هکری -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="420px">
+
+<br><br>
+<!-- خط تفکیک کننده -->
+<img src="https://raw.githubusercontent.com/krzysztof-marzec/krzysztof-marzec/master/bgr-pixel.gif" width="100%" height="3px" />
+<br>
+
+<!-- بخش تخصص‌ها با آیکون‌های گرافیگی نئونی دارک -->
+<h2>🛠️ TECH ORBIT 🛠️</h2>
+<br>
+
+<img src="https://skillicons.dev/icons?i=py,django,fastapi,postgres,mongodb,redis,docker,git,linux,githubactions&theme=dark" width="85%" />
+
+<br><br>
+<img src="https://raw.githubusercontent.com/krzysztof-marzec/krzysztof-marzec/master/bgr-pixel.gif" width="100%" height="3px" />
+<br>
+
+<!-- بخش آمار زنده گیت‌هاب با تقارن ۵۰-۵۰ کاملاً چسبیده به هم بدون حاشیه اضافی -->
+<h2>📊 LIVE MONITORING </h2>
+<br>
+
+<table border="0" cellpadding="0" cellspacing="0" align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Mahdifotohi&show_icons=true&theme=gotham&icon_color=FF6600&text_color=ffffff&bg_color=000000&hide_border=true&title_color=FF6600&rank_icon=github" width="95%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdifotohi&layout=compact&theme=gotham&text_color=ffffff&bg_color=000000&hide_border=true&title_color=FF6600" width="95%" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- نمودار استریک پهن خطی که دقیقاً زیر دو آمار بالا می‌شینه و باکس رو کامل می‌کنه -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahdifotohi&theme=gotham&background=000000&fire=FF6600&ring=FF6600&labels=ffffff&currStreakNum=FF6600&sideNums=ffffff&hide_border=true" width="96%" />
+
+<br><br>
+<img src="https://raw.githubusercontent.com/krzysztof-marzec/krzysztof-marzec/master/bgr-pixel.gif" width="100%" height="3px" />
+<br>
+
+<!-- بخش راه‌های ارتباطی لوکس و یکدست پایین صفحه -->
+<h2>🌐 CONNECT </h2>
+<br>
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF6600" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/YOUR_TELEGRAM_ID" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=FF6600" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF6600" />
+  </a>
+</p>
+
+<br>
+<img src="https://raw.githubusercontent.com/krzysztof-marzec/krzysztof-marzec/master/bgr-pixel.gif" width="100%" height="4px" />
 
 </div>
-
----
-
-### 📡 System Mainframe Status (Advanced Core)
-
-```python
-import asyncio
-from typing import Dict, Any
-
-class MahdiFotohi:
-    ENGINE = "Python / Django / FastApi"
-    ARCHITECTURE = "Microservices & Distributed Systems"
-    
-    def __init__(self) -> None:
-        self.status = "Writing Clean, Scalable Code"
-        self.focus_areas = ["High-Load Systems", "DB Optimization", "Caching"]
-
-    @classmethod
-    async def execute_pipeline(cls) -> Dict[str, Any]:
-        """ Simulating daily developer lifecycle """
-        pipeline = ["Refactoring", "Containerizing", "Benchmarking"]
-        for task in pipeline:
-            await asyncio.sleep(1)  # Async non-blocking operations
-        return {"status": "Production Ready", "bugs_found": 0}
