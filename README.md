@@ -1,23 +1,33 @@
-## Hi, I`am Mahdi Fotohi 👋
+<div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"><img/>
+<!-- هدر هکری و متحرک زنده با تم مشکی و نارنجی -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=FF6600&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Mahdi+Fotohi+%F0%9F%91%BD;Backend+Developer...;Executing+Life+Loop...;Root%40Mahdifotohi%3A%7E%24+" alt="Typing SVG" />
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-CODING_IN_THE_SHADOWS-FF6600?style=flat-square&logo=terminal&logoColor=black" alt="Status"/>
+  <img src="https://img.shields.io/badge/THEME-CYBERPUNK_ORANGE-000000?style=flat-square&logo=matrix&logoColor=FF6600" alt="Theme"/>
+</p>
+
+---
+
+<!-- گیف هکری شخصی شما -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="350px">
+
+</div>
+
+### 🛠️ Terminal System Status
 
 ```python
-def my_life():
-    while True:
-        print("Coding...")
-        print("Coffee...")
-        print("Learning...")
-        print("Sleep... ")
-        return True
-
-```
-<h2> my skills 😎 <h2/>
-
- ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
- <h2> learning... 🦾<h2/>
-
-![](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)![](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-
+class BackendDeveloper:
+    def __init__(self):
+        self.name = "Mahdi Fotohi"
+        self.role = "Backend & Microservices Engineer"
+        self.alias = "Root"
+        
+    def core_loop(self):
+        while True:
+            optimize_queries()
+            write_clean_code()
+            drink_coffee()
+            if self.is_burnt_out():
+                break # Just kidding, sleep is for the weak
