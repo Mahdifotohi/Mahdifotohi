@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- هدر متحرک نئونی و زنده -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FF6600&center=true&vCenter=true&width=600&lines=HI%2C+I'M+MAHDI+FOTOHI;BACKEND+DEVELOPER;&Acirc;&nbsp;" alt="Typing SVG" />
+<!-- هدر متحرک زنده (اصلاح شده و بدون باگ) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF6600&center=true&vCenter=true&width=600&lines=HI%2C+I'M+MAHDI+FOTOHI;BACKEND+DEVELOPER;PYTHON+%2F+DJANGO+DEVELOPER" alt="Typing SVG" />
 
 <!-- پین‌های وضعیت با دیزاین کپسولی متقارن -->
 <p align="center">
@@ -49,28 +49,24 @@
 
 <br>
 
-<!-- نمودار استریک پهن خطی که دقیقاً زیر دو آمار بالا می‌شینه و باکس رو کامل می‌کنه -->
+<!-- نمودار مانیتورینگ استریک به سبک رادارها -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahdifotohi&theme=gotham&background=000000&fire=FF6600&ring=FF6600&labels=ffffff&currStreakNum=FF6600&sideNums=ffffff&hide_border=true" width="96%" />
 
 <br><br>
 <img src="https://raw.githubusercontent.com/krzysztof-marzec/krzysztof-marzec/master/bgr-pixel.gif" width="100%" height="3px" />
 <br>
 
-<!-- بخش راه‌های ارتباطی لوکس و یکدست پایین صفحه -->
+<!-- بخش راه‌های ارتباطی لوکس و یکدست پایین صفحه متصل به لینک‌های واقعی شما -->
 <h2>🌐 CONNECT </h2>
 <br>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID" target="_blank">
+  <a href="https://www.linkedin.com/in/mahdifotohi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF6600" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/YOUR_TELEGRAM_ID" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=FF6600" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF6600" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/i021boy" target="_blank">
+    <img src="https://img.shields.io/badge/X_Twitter-000000?style=for-the-badge&logo=x&logoColor=FF6600" />
   </a>
 </p>
 
